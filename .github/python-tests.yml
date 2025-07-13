@@ -1,0 +1,2 @@
+name: Lancer les tests
+run: python -m unittest discover tests
